@@ -1,0 +1,2 @@
+I added two documents about climate and recent weather in Southeast Michigan.
+I used two different models, Llama 3 and mistral-nemo. I asked them both a coding question and they both performed poorly.

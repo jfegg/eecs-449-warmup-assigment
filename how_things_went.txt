@@ -1,0 +1,6 @@
+I think overall the codealong was nice to follow. I think it was really cool to be able to create a software that could prompt LLMs really quickly.
+I was surprised how little code it takes to interact with the LLM libraries. The accuracy of the models isn't the greatest but
+still impressive how easy it was to make the webapp. I thought it was cool that there is a feature to prompt the models
+with documents for answers rather than just text from the user. My only issues with jaclang is that it was difficult
+for me to figure out how must of the syntax works and the errors that came up. I had a hard time figuring out the syntax
+for some of the code that I wrote.
