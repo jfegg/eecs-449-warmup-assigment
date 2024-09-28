@@ -1,0 +1,3 @@
+I added a MATH chat bot mode. The idea is that if the user clearly asks a math question,
+the LLM gets prompted to just give mathematical answer. The router node moves to the MATH chat node if
+it classifies that it thinks the problem is mathematical. 
